@@ -36,7 +36,8 @@ The Treasury is a resource owned by DOT holders to increase DOT demand.
 
 We envision a world where the Polkadot Treasury serves as the nucleus of a powerful network value loop.
 
-![image](https://github.com/ivy-gov/hello-world/assets/73193351/37a31195-7259-47aa-8daf-5f97bcee2755)
+![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/46c134ed-4ae0-4c73-be47-44bbcc144560)
+
 
 
 

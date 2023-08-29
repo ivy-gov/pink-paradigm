@@ -7,38 +7,35 @@ Governance represents one of the most powerful applications powered by blockchai
 
 Blockchain-based governance introduces a framework to create long-term network value and hyper-accelerate participation in a faster, more dynamic, and freer economy.
 
-The Polkadot Network (“Polkadot”) is at the forefront of this new governance paradigm with its most recent network upgrade, where high-impact change can be easily coordinated across its decentralized network.
+The Polkadot Network ("Polkadot") is at the forefront of this new governance paradigm with its most recent network upgrade, where high-impact change can be easily coordinated across its decentralized network.
 
-Polkadot’s next-generation governance architecture makes it unlike virtually any other blockchain ecosystem - and the newly distributed agency shared amongst its participants will fuel secular growth in upcoming market cycles.
+Polkadot's next-generation governance architecture makes it unlike virtually any other blockchain ecosystem - and the newly distributed agency shared amongst its participants will fuel secular growth in upcoming market cycles.
 
-Rather than relying on a handful of centralized actors for everything, DOT holders now own Polkadot’s destiny and its vast resources. [1]
+Rather than relying on a handful of centralized actors for everything, DOT holders now own Polkadot's destiny and its vast resources. **[1]**
 
 With OpenGov, Polkadot provides DOT holders like us the freedom to experiment, learn, and innovate as we endeavour to create an outstanding on-chain experience.
 
 At Ivy, our mission is to build a prosperous token economy.
 
-In the near term, Ivy and its democracy delegators have a single goal: _sustainably increase DOT’s value._
+In the near term, Ivy and its democracy delegators have a single goal: _sustainably increase DOT's value._
 
-A resource owned by all DOT holders, the Polkadot Treasury (the “Treasury”) is a vehicle to realize Ivy’s objective by attracting talented project teams that can supercharge Polkadot’s growth.
+A resource owned by all DOT holders, the Polkadot Treasury (the "Treasury") is a vehicle to realize Ivy's objective by attracting talented project teams that can supercharge Polkadot's growth.
 
 In this piece, Ivy presents its perspective on how this network-owned resource can be best utilized to increase long-term DOT demand and realize the promise of Polkadot 2.0 and beyond.
 
-
 ## Polkadot Treasury Vision
 
-As of August 25, 2023, Polkadot has a 45 million DOT treasury, with more than 7 million DOT in annualized run-rate revenue [2].
+As of August 25, 2023, Polkadot has a 45 million DOT treasury, with more than 7 million DOT in annualized run-rate revenue **[2]**.
 
-At the current USD-denominated price of DOT, this represents a treasury size and run-rate revenue of $201 million and $32 million, respectively [3].
+At the current USD-denominated price of DOT, this represents a treasury size and run-rate revenue of $201 million and $32 million, respectively **[3]**.
 
 The Treasury is a resource owned by DOT holders to increase DOT demand.
 
-**Every time DOT is distributed to a project, the resulting output should exceed the opportunity cost of reserving it for a future, potentially higher-impact initiative, or burning the DOT token outright.**
+> **Every time DOT is distributed to a project, the resulting output should exceed the opportunity cost of reserving it for a future, potentially higher-impact initiative, or burning the DOT token outright.**
 
 We envision a world where the Polkadot Treasury serves as the nucleus of a powerful network value loop.
 
 ![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/0b301704-8c43-44fd-bd85-cca385bba3bf)
-
-
 
 
 DOT holders can become DOT agents through valuable contributions, and join DOT project teams that evolve into DOT products, which ultimately benefit them.
@@ -47,17 +44,15 @@ This flywheel will beget steady growth in DOT holders and network activity, boos
 
 Reaching this sustainable future-state, though, requires a clear treasury philosophy that informs it should be deployed.
 
-
 ## Polkadot Treasury Principles
 
 The Polkadot Treasury should be deployed to increase long-term DOT value based on a disciplined approach.
 
 To achieve this, Ivy proposes the following principles:
 
-
 <table>
   <tr>
-   <td colspan="3" >Polkadot Treasury Philosophy Summary
+   <td colspan="3" ><strong>Polkadot Treasury Philosophy Summary</strong>
    </td>
   </tr>
   <tr>
@@ -118,10 +113,7 @@ To achieve this, Ivy proposes the following principles:
   </tr>
 </table>
 
-
-
-
-**1. Use It Wisely**
+### Use It Wisely
 
 If the network-owned treasury funds are never given out, they are burned. Lower selling pressure on DOT is never a bad thing.
 
@@ -137,9 +129,7 @@ However, the Treasury balance should always remain at a level that can sustain p
 
 In the event that DOT holders don’t deploy at least the annual treasury income, the network should consider distributing rewards to its most active and highest value ecosystem agents, who continue to add value independent of market conditions.
 
-
-
-**2. DOT Price Up**
+### DOT Price Up
 
 DOT holders should only support initiatives that help increase network value.
 
@@ -151,9 +141,7 @@ On an aggregate basis, this implies growth of total Polkadot network transaction
 
 Projects that have a credible approach to addressing either of these criteria should receive serious consideration for DOT treasury funding.
 
-
-
-**3. Subsidize, No Perpetuities**
+### Subsidize, No Perpetuities
 
 Because the DOT treasury should only be used to increase Polkadot network value, it is not unreasonable for the Treasury to subsidize projects for a period of time.
 
@@ -161,18 +149,14 @@ However, there must be a credible path to project sustainability outside of the 
 
 Projects that are completely funded by the treasury without a path to sustainability introduce two systemic risks:
 
-
-
 1. Blocking future project teams from receiving funding given the finite supply of funds.
 2. Creating an unhealthy relationship with DOT holders where they may have to prematurely pause support for projects with large potential.
 
 In addition to the Treasury being able to bootstrap more teams, supporting proposals with a path to sustainability will likely result in higher network impact.
 
+### Reward Boldness
 
-
-**4. Reward Boldness**
-
-Polkadot is currently a $6bn+ network [3].
+Polkadot is currently a $6bn+ network **[3]**.
 
 While small project asks can unequivocally create network value, it's likely that more ambitious proposals will translate to meaningful network impacts. Large project asks in the form of clearly defined, separate milestone proposals are preferred.
 
@@ -180,9 +164,7 @@ Individuals or teams seeking to work on one-off projects should consider initial
 
 As a general matter, we want to create a culture of DOT holders taking a more active role in helping Treasury-funded projects succeed.
 
-
-
-**5. Retroactive Funding**
+### Retroactive Funding
 
 It would be ideal if all project proposals sought retroactive funding for well-established projects that had added tremendous value to the Polkadot network.
 
@@ -194,9 +176,7 @@ Instead, a more reasonable approach would be to expect that teams conduct work p
 
 Polkadot is fortunate to have a tremendous amount of quality project teams within its ecosystem, and conducting the relevant pre-work prior to submitting treasury proposals will only make it easier for DOT holders to support them.
 
-
-
-**6. Signal Rewards**
+### Signal Rewards
 
 The Polkadot treasury isn’t a venture capital firm targeting minimum returns on investments, and it also isn’t a charity.
 
@@ -206,7 +186,7 @@ Projects receiving Treasury funding should consider retroactively rewarding DOT 
 
 For DOT holders helping make those project teams successful, project teams should consider sharing value generated from proposals provided it doesn’t come at the expense of long-term network value.
 
-**Punchline**
+### Punchline
 
 Ultimately, these principles represent an initial framework that should be iterated on by DOT holders and project teams alike.
 
@@ -259,15 +239,13 @@ Ivy’s Polkadot Treasury philosophy naturally informs its perspectives on refer
   </tr>
 </table>
 
-
 The purpose of Ivy’s referenda guidance isn’t to increase the barriers to entry, but rather, make it easier for DOT holders to embrace willing, capable project teams.
 
 Quality proposals should address the following categories for a non-technical audience to maximize probability of approval:
 
-
 <table>
   <tr>
-   <td colspan="3" >Refenda Proposal Summary
+   <td colspan="3" ><strong>Refenda Proposal Summary</strong>
    </td>
   </tr>
   <tr>
@@ -320,23 +298,18 @@ Quality proposals should address the following categories for a non-technical au
   </tr>
 </table>
 
-
 Helpful sub-questions for each category are outlined below, in the spirit of making it easier for DOT holders to support proposals.
 
 
 ### Team Category Overview
 
-
-
-**Why are you submitting this proposal?**
+#### Why are you submitting this proposal?
 
 It’s helpful to understand whether the proposers have genuine interest in increasing the value of the Polkadot network, as our hope is that project teams seeking treasury funding establish long-term relationships with DOT holders.
 
-**Who is on the project team?**
+#### Who is on the project team?
 
 Unless an individual proposer is seeking a pseudo-full-time role for recurring efforts provided to the Treasury, each referendum should have a scrum team of two to seven individuals based on the following roles:
-
-
 
 * **Proposer Owner**: This role represents the escalation point. Ideally, this individual is also doxxed as one’s social reputation serves as a form of collateral posted to help ensure the project team puts forth is successfully delivered.
 * **Product Owner**: This role owns the project requirements and their prioritization.
@@ -350,36 +323,36 @@ While it’s certainly not a requirement, we are passionate about existing ecosy
 
 It would also be constructive to know how the project team knows each other, as we find it rewarding to support other DOT agents in their entrepreneurial efforts.
 
-**Why is the project team capable of delivering this?**
+#### Why is the project team capable of delivering this?
 
 Share relevant projects that the team, or its members, have previously built. Ideally, the project team has already commenced some work on the proposed deliverables, which would also make it eligible for retroactive funding.
 
 
 ### Project and DOT Demand
 
-**How does this proposal benefit DOT holders or the Network?**
+#### How does this proposal benefit DOT holders or the Network?
 
-This is_ _the most important question in the proposal as it can fast track support from DOT holders. Answers should include a thoughtful, quantifiable goal that can be used to assess the potential impact on DOT demand, and track ongoing progress.
+This is the most important question in the proposal as it can fast track support from DOT holders. Answers should include a thoughtful, quantifiable goal that can be used to assess the potential impact on DOT demand, and track ongoing progress.
 
-**What validation does the proposal have?**
+#### What validation does the proposal have?
 
 Related to the above question, providing evidence as to why a proposal represents a high-impact initiative and demonstrating existing project demand, which again, only makes it easier to support Treasury proposals.
 
-**What are the deliverables and success criteria?**
+#### What are the deliverables and success criteria?
 
 Clear deliverables with a mechanism to objectively evaluate whether or not they have been successfully met are paramount to establish a mutually beneficial relationship with the Polkadot community.
 
 This will help better engage DOT holders and increase the likelihood of additional treasury support should it be required.
 
-Project Planning
+### Project Planning
 
-**What is the project budget?**
+#### What is the project budget?
 
 Transparency makes it easier for DOT holders to assess whether or not spend is being appropriately distributed to make project teams successful in accomplishing their objectives.
 
 Budgets should have two sections: Delivery and Post-delivery, with the former encompassing the majority of detail.
 
-Delivery
+##### Delivery
 
 The Delivery section should include the costs associated with completing proposal deliverables based on the stated success criteria.
 
@@ -461,12 +434,9 @@ A sprint-based (10 working days) graphic highlighting roles, day rates and resou
   </tr>
 </table>
 
-
 Day rates should be in line with market compensation for the specified role, but shouldn’t be construed as greedy given the Treasury is a community-owned resource.
 
 Non-compensation Delivery costs tend to include items such as:
-
-
 
 * Hosting/DevOps
 * Testing Tooling
@@ -476,14 +446,13 @@ Non-compensation Delivery costs tend to include items such as:
 
 Marketing spend, especially travel to events, should be carefully considered as inconsistent return-on-investment makes this a polarizing category.  
 
-Post-Delivery
+##### Post-Delivery
 
 If the Delivery phase represents a partial MVP, it would be useful to understand approximately how much additional cost is needed to fund MVP delivery, as well as any ongoing costs to maintain that MVP.
 
- \
 This visibility provides DOT holders a sense of any additional potential spend needed, which may or may not be funded by the Treasury.
 
-**What are the key project workstreams, milestones and associated timing?**
+#### What are the key project workstreams, milestones and associated timing?
 
 A project plan supported by the required resourcing and accompanied by detailed milestones adds credibility to the proposal, and helps identify any third party dependencies that must be considered. Example template below:
 
@@ -673,10 +642,9 @@ A project plan supported by the required resourcing and accompanied by detailed 
   </tr>
 </table>
 
+### Project Sustainability
 
-Project Sustainability
-
-**What is the project path to sustainability?**
+#### What is the project path to sustainability?
 
 Projects should not plan on indefinite funding from the DOT Treasury given it introduces systemic risks to this community-owned resource.
 
@@ -684,17 +652,15 @@ Therefore, it would be helpful to understand the longer-term roadmap to secure a
 
 These alternatives can include:
 
-
-
 * Revenue models,
 * Investment capital, and
 * Non-DOT Treasury funding sources.
 
 Ivy is particularly interested in supporting projects to formulate paths to sustainability as it significantly de-risks treasury spend and allows DOT holders to support more talented teams.
 
-DOT Holders
+### DOT Holders
 
-**What rewards are being signaled to DOT Holders?**
+#### What rewards are being signaled to DOT Holders?
 
 Projects should view the DOT Treasury as more than funding - it’s also a resource owned by more than 1.1 million DOT holders, all of whom represent potential champions of project deliverables.
 
@@ -704,7 +670,7 @@ Treasury spend is not a zero-sum game, and should result in an expanding market 
 
 Incentivizing DOT holders to make projects successful, and creating a culture of DOT holders contributing to project teams’ success, not only increases the chances of project success, but it also helps boost the desirability of DOT as an asset.
 
-**What license is this software being delivered under?**
+#### What license is this software being delivered under?
 
 The worst outcome from projects funded by the treasury isn’t that an initiative doesn’t reach its goals - it’s that a project doesn’t reach its goals _and_ no one can continue the work.
 
@@ -713,13 +679,11 @@ Therefore, delivering projects under software licences that enables members of t
 This framework also reduces long-term pressure on project teams as quality innovation can be carried on by new ecosystem members.
 
 
-### Ivy Next Steps
+## Ivy Next Steps
 
 Ivy seeks to be a mechanism to connect DOT holders and treasury-funded project teams as a means to increase long-term DOT demand.
 
 In connection with this, Ivy’s near term objectives include:
-
-
 
 * Supporting high-impact projects and assisting them with treasury proposals,
 * Driving increases in ecosystem agents’ participation, and
@@ -728,33 +692,25 @@ In connection with this, Ivy’s near term objectives include:
 
 In the interim:
 
-
-
 * consider delegating your DOT democracy to Ivy ([16Zw7drubm8LkaoNSPtNBAaoq2bQAL4m7oySPp4RuXvmETDG](https://polkadot.subscan.io/account/16Zw7drubm8LkaoNSPtNBAaoq2bQAL4m7oySPp4RuXvmETDG)) as we seek to vote on every proposals and provide feedback when appropriate, or
 * reach out to discuss potential referenda on Telegram: @ivynetwork.
 
 Please note that if you are interested in delegating your DOT democracy to Ivy:
-
-
 
 * you should have more than 2 transferable DOT in your wallet, and
 * if you’ve voted on a referenda, you won’t be able to delegate democracy on that referenda’s associated track until you revoke your vote or your conviction multiplier has expired.
 
 To delegate democracy to Ivy:
 
-
-
 * If you are not using a Ledger hardware wallet, check out [this guide via PolkadotJS](https://github.com/ivy-gov/pink-paradigm/blob/main/dot-democracy-delegation-guide-js.md), or try out one of the other community tools.
 * If you are using a Ledger hardware wallet (including via PolkadotJS, or another software wallet), make sure that you’ve updated to the latest Ledger version and visit [Ivy’s website](https://delegate.ivynetwork.io/), which enables democracy delegations on the highest priority OpenGov tracks.
 
 Ivy grows, even in winter.
 
-**Sources:**
+## Sources
 
-[1] Polkadot Network, August 2023, [https://www.polkadot.network/features/opengov/](https://www.polkadot.network/features/opengov/).
+**[1]** Polkadot Network, August 2023, [https://www.polkadot.network/features/opengov/](https://www.polkadot.network/features/opengov/).
 
-[2] doTreasury, August 2023, [https://www.dotreasury.com/dot/](https://www.dotreasury.com/dot/).
+**[2]** doTreasury, August 2023, [https://www.dotreasury.com/dot/](https://www.dotreasury.com/dot/).
 
-[3] Coingecko, August 2023, [https://www.coingecko.com/](https://www.coingecko.com/).
-
-
+**[3]** Coingecko, August 2023, [https://www.coingecko.com/](https://www.coingecko.com/).

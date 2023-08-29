@@ -14,18 +14,19 @@ In the event you are using a Ledger (even via Polkadot JS), please visit [Ivy’
 2. Visit this link: [https://polkadot.js.org/apps/#/referenda](https://polkadot.js.org/apps/#/referenda).
 3. Press the Delegate button on the right of the screen.
 
-![image](https://github.com/ivy-gov/hello-world/assets/73193351/c27c8295-6b51-4061-8d01-33c313fa4c94)
+![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/7196ea81-96d3-4354-8c1e-9d6eb6b19aa1)
+
 
 
 4. A delegate vote box should appear:
 
-![image](https://github.com/ivy-gov/hello-world/assets/73193351/f8f37c31-9e7c-43b9-801a-68ebb058404f)
+![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/f4bbcdae-e2fc-441e-924c-01683949d987)
 
 
   First, ensure that “apply delegation to all tracks” is on - this is done via a toggle switch below:
 
 
-![image](https://github.com/ivy-gov/hello-world/assets/73193351/83b02eea-4e8d-4060-8a6f-e40d04c47f75)
+![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/d81e0878-c134-4415-9289-ea8092615fa5)
 
 
   This is paramount, otherwise the delegation process will not work as intended. 
@@ -44,12 +45,13 @@ In the event you are using a Ledger (even via Polkadot JS), please visit [Ivy’
 5. In the same delegate votes box, enter the amount of DOT democracy you want to delegate in the delegated vote value.
 
 
-![image](https://github.com/ivy-gov/hello-world/assets/73193351/c7936adb-c768-4bc1-b2bf-379ed1d3ce33)
+![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/91a3c40d-08d3-44b1-8fd1-be068e0a7630)
+
 
 
 6. In the same delegate votes box, select the conviction you want to delegate with. 
 
-![image](https://github.com/ivy-gov/hello-world/assets/73193351/f7c79ede-c4ee-48fc-bb50-e988a9cf0e06)
+![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/a7913764-e251-411c-99c8-9821f30f3f37)
 
 
 
@@ -77,7 +79,7 @@ In the event you are using a Ledger (even via Polkadot JS), please visit [Ivy’
 
 
 
-![image](https://github.com/ivy-gov/hello-world/assets/73193351/6fb9a6e2-2a6c-4890-b4bc-20cb79c23342)
+![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/86e22320-5429-476a-a701-f592e33c5388)
 
 
 
@@ -88,7 +90,8 @@ In the event you are using a Ledger (even via Polkadot JS), please visit [Ivy’
 
 
 
-![image](https://github.com/ivy-gov/hello-world/assets/73193351/9fb19636-5bf9-4704-9bdc-7d659747835b)
+![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/ec0eedbf-7677-4af7-9617-386f228be225)
+
 
 
 
@@ -97,7 +100,7 @@ In the event you are using a Ledger (even via Polkadot JS), please visit [Ivy’
 
 
 
-![image](https://github.com/ivy-gov/hello-world/assets/73193351/d9ee42e1-9fee-4e99-9d24-e23913d0dc80)
+![image](https://github.com/ivy-gov/pink-paradigm/assets/73193351/0238c2bf-bd53-4718-862a-9a96906f5c00)
 
 
 
